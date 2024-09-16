@@ -26,5 +26,5 @@ These results highlight the pipeline's effectiveness in predicting rare events, 
 3. Cristianini, N. & Ricci, E. (2008). Support Vector Machines. In **Encyclopedia of Algorithms**, 928–932. Springer US, Boston, MA. DOI: [10.1007/978-0-387-30162-4_415](https://doi.org/10.1007/978-0-387-30162-4_415).
 
 ## Authors:
-- **Eugeniu Catlabuga**, **Nicolae Drabcinschi**, **Viorel Munteanu**, **Viorica Sudacevschi**  
+- **Eugeniu Catlabuga**, **Nicolae Drabcinski**, **Viorel Munteanu**, **Viorica Sudacevschi**  
   Technical University of Moldova
